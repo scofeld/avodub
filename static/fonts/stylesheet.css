@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Gotham Pro';
+    src: url('subset-GothamPro-Bold.eot');
+    src: url('subset-GothamPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-GothamPro-Bold.woff2') format('woff2'),
+        url('subset-GothamPro-Bold.woff') format('woff'),
+        url('subset-GothamPro-Bold.ttf') format('truetype'),
+        url('subset-GothamPro-Bold.svg#GothamPro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
